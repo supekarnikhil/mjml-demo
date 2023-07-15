@@ -1,0 +1,28 @@
+<mjml>
+  <mj-body>
+
+    <mj-include path="../components/header.mjml" />
+
+    <mj-section background-color="#efefef">
+      <mj-column>
+        <mj-text font-size="20px" color="#000" font-family="helvetica,Arial,sans-serif">
+          ⚙️ Automate Env File Validation in Your Node.js Projects with Env Tools
+        </mj-text>
+        <mj-image border-radius="8px" src="https://cloudapparchitect.com/static/images/blog/paul-esch-laurent-oZMUrWFHOB4-unsplash.jpg?source=mjml-demo" href="https://cloudapparchitect.com/blog/automate-env-file-validation-in-your-node-js-projects-with-env-tools?utm_source=mjml-demo&utm_medium=banner-image">
+        </mj-image>
+        <mj-text line-height="1.6" font-size="16px" color="#777" font-family="roboto,helvetica,Arial,sans-serif">
+          Managing environment variables is a critical part of modern application development. With @nixup/env-tools, you can automate the validation of your env files, ensuring that all required variables are present and reducing the risk of runtime errors or unexpected behavior. By integrating this simple yet powerful tool into your project's build pipeline, you can catch missing or incorrect environment variables early, leading to more reliable and efficient software deployments.
+        </mj-text>
+        <mj-text line-height="1.6" font-size="16px" color="#777" font-family="roboto,helvetica,Arial,sans-serif">
+          Give Env Tools a try today and streamline your project's env file management. We'd love to hear your feedback and learn how you've tackled similar challenges in your own projects.
+        </mj-text>
+        <mj-button background-color="#0284c7" border-radius="8px" href="https://cloudapparchitect.com/blog/automate-env-file-validation-in-your-node-js-projects-with-env-tools?utm_source=mjml-demo&utm_medium=cta">
+          Read More >>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../components/footer.mjml" />
+
+  </mj-body>
+</mjml>

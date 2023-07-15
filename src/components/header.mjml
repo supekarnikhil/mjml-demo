@@ -1,0 +1,7 @@
+<mj-section padding-bottom="25px" background-color="#0284c7" border-bottom="solid 1px #aaa">
+  <mj-column vertical-align="middle">
+    <mj-text align="center" font-size="24px" color="#fff" font-family="helvetica,Arial,sans-serif">
+      Cloud App Architect
+    </mj-text>
+  </mj-column>
+</mj-section>
