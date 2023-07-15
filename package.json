@@ -1,4 +1,10 @@
 {
+  "name": "mjml-demo",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "mjml ./src/templates/*.mjml -o ./dist/"
+  },
   "dependencies": {
     "mjml": "^4.14.1"
   }
